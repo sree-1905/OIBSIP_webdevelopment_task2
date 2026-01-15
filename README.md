@@ -9,7 +9,6 @@ This website contains sections such as About Me, Skills, Education, Projects, an
 ### Technologies Used
 - HTML5
 - CSS3
-- JavaScript
 
 ### Outcome
 A professional portfolio website to present personal and academic details.
